@@ -177,10 +177,10 @@ char * admin_stringtable[]={
 	"<tr><td width=\'150\' valign=\'top\'>\r\n"
 	"<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 	"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>\r\n"
-	"<A HREF=\'/C'>Counters</A><br>\r\n"
-	"<A HREF=\'/R'>Reload</A><br>\r\n"
-	"<A HREF=\'/S'>Running Services</A><br>\r\n"
-	"<A HREF=\'/F'>Config</A>\r\n"
+	"<A HREF=\'./C'>Counters</A><br>\r\n"
+	"<A HREF=\'./R'>Reload</A><br>\r\n"
+	"<A HREF=\'./S'>Running Services</A><br>\r\n"
+	"<A HREF=\'./F'>Config</A>\r\n"
 	"</td><td>"
 	"<h2>%s %s configuration</h2>",
 
